@@ -1,0 +1,203 @@
+Reframes
+
+- smoking/vaping
+- cars assets vs liabilities
+
+  - most physical things are a liability
+  - cars can keep you poor
+
+- let your conscience be your guide
+
+  - one mistake can haunt you the rest of your life
+  - think twice before doing something sketchy
+  - relationships are complicated
+    - hard to know the rules
+
+- military
+
+  - pros
+    - adventure
+    - real skills
+    - education before and after
+    - pay is ok
+  - cons
+    - pay is ok
+    - first 2 or 3 years are tough
+    - its a whole different world of discipline
+  - enlisted vs officer
+    - being an officer is better
+      - but less hands on, more manager/leader
+      - college required
+    - elisted does the hands-on work
+      - come away with real skills
+      - can suck for first year or two
+    - warrant officer
+      - special niche, between enlisted and officer
+        - specialty that requires more responsibility than elisted
+        - less leader of men, nmore specialist
+      - two routes
+        - senior enlisted to WO
+        - ARMY aviation warrant officer aviatior
+          - only service that allows a HS grad to be a officer/pilot
+  - army
+    - tons of specialities
+    - many non direct combat
+  - air force
+    - high tech
+    - best rooms and food
+  - navy
+    - exciting opportunities
+    - away from home
+  - coast guard
+    - in the US
+    - rescue and law enforcment
+  - space force
+    - really cool
+  - marines
+    - saved for last
+    - toughest
+    - brotherhood/sisterhood
+    - most proud
+    - i have two kids are former marines
+      - they don't let me forget I was in the army
+
+- college
+
+  - hella fun
+  - you are an adult now
+  - you are only responsible for your own performance
+    - ok group projects can suck
+    - my advice
+      - no one will nag you
+      - never miss class
+      - always do the homework
+      - exams will take care of themselves
+  - some of the best time of my life
+    - 2 1/2 years, ran out of $
+      - there was no CS at the time
+    - military 6 years
+    - 2 more years for grad school
+  - is it worth it?
+    - student loans are the devil (or can be)
+    - levels of debt
+      - price of a new car ($50K)
+        - dooable, payoff 5-10 years (just like a new car these days)
+      - price of a house ($200k+) ok not in Reno but some parts of the country
+        - can be an albatross around your neck for life
+        - some careers will pay off, many won't
+        - even MDs can suffer for years (or claim to)
+
+- tech careers
+
+  - engineering
+    - civil, electrical, petroleum, mechanical, industrial, biomedical
+    - must have degree, almost
+      - difficult to move without degree
+    - professional engineer
+      - most engineering fields
+      - requires acredited degree in engineering
+      - certification (difficult)
+      - by far mostly for civil, structural
+      - signs off on projects, responsibility
+  - computer science
+    - degree
+    - self taught
+
+- CS/programming
+
+  - visual studio code
+  - git
+    - github
+    - gitlab
+  - languages
+    - python
+    - java
+    - c#
+    - javascript/typescript
+    - c
+    - c++
+
+- careers
+  - there are literally billions of careers and they both the same and different
+  - boomers are dying off, US population will shrink, so many opportunities for you people
+  - individual contributor
+  - leader
+- trades - the USA needs more
+  - plumbing, hvac, construction, electrician, welder
+  - individual
+    - union
+  - foreman
+  - business
+- tech
+- professions
+
+  - medicine/nursing
+  - legal
+  - sales
+  - aviation
+  - teaching
+    - important
+    - don't get what they deserve, respect, $$
+  - law enforcement
+  - aviation (pilot)
+  - military
+  - national guard/reserve
+  - active duty
+  - retire at 20 yr
+  - get rich
+  - tech startups
+    - UNR innevation center has many young people starting businesses
+  - tech FAANG etc
+  - MD, lawyer
+    - start a practice, be a partner,
+  - trades
+    - work up to running your own team as a business
+  - own a business
+    - drive around reno industrial areas
+    - there are hundreds of small businesses
+    - not obvious
+    - owning a small business is difficult but rewarding
+  - investing
+    - anyone can do this
+    - avoid wallstreetbets approach for the most part
+    - start a brokerage account NOW
+    - create a Roth IRA if you are have earnings
+    - stay way from bank savings accounts
+    - buy S&P 500 ETF or...
+    - avoid withdrawals for anything that is a liability
+    - max out IRA/401K
+    - Roth is best for youngsters
+
+- careers that are really tough
+  - not meant to discourage you
+  - high passion fields
+  - art
+  - music
+  - sports
+  - airline pilot (not anymore, leaving this out)
+  - so many ultra talented people online that are not making it big
+  - BUT there are many careers in these that don't involve making it big THE artist
+  - art
+    - game artist
+    - graphical design
+    - web design
+    - industrial
+      - signs small business
+      - graphics
+    - education
+  - music
+    - business/legal
+    - song writing
+    - education
+    - producer
+    - recording
+  - sports
+    - coach
+    - sports medicine
+    - trainer
+    - business/legal
+    - education
+    - nutrition
+    - physical therapy
+    - referee
+    - media
